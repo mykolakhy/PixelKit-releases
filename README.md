@@ -19,3 +19,5 @@ Each release provides per-architecture `dependencies.json` manifests and `source
 The source archives include the collected upstream sources, applicable patches and build recipes, and instructions for replacing the relevant shared libraries. They do not contain PixelKit application source code.
 
 This repository does not grant a license to PixelKit's proprietary source or branding. Third-party material remains governed by its respective licenses.
+
+GitHub's automatically generated **Source code** ZIP/TAR links contain only this public download/support repository's metadata. PixelKit application source is not included.
